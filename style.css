@@ -1,0 +1,54 @@
+select {
+    box-shadow: 0px 0px 11px 0px #FFFFFF;
+    width: 209px;
+    height: 30px;
+    border-radius: 10px;
+    background-color:  #232028;
+    color: aliceblue;
+   
+}
+button {
+    width: 175px;
+    height: 50px;
+    border: none;
+    border-radius: 15px;
+    background-color: #BFAFF2;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section1{
+    padding: 300px 0;
+    
+}
+
+.div11{
+    position: relative;
+
+}
+
+.div11 img{
+    position: absolute;
+    left: 10%;
+    top: -100%;
+    
+}
+.container {
+    display: flex;
+    gap: 15px;
+    position: relative;
+    top: 100px;
+    left: -100px;
+}
+.div99 {
+    position: relative;
+    left: 100px;
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    
+}
